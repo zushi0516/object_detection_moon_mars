@@ -23,4 +23,5 @@ RetinaNetにはこちらのkeras実装を参考にしていますhttps://github.
   実装例として[このノートブック](https://github.com/zushi0516/object_detection_moon_mars/blob/main/examples/training.ipynb)を使ってcolab上で訓練、推論、モデルの定量評価を行うことができます。
 
 推論がうまくいくとこのような結果を得ることができます。
+  
 ![imgae.jpg](./examples/image.jpg)
