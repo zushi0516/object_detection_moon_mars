@@ -1,6 +1,16 @@
 # 月・火星表面の物体検知
 RetinaNetを用いた月・火星表面の物体検知アルゴリズムを実装しました。
 
+これらの論文を参考にしました。
+
+[A Labeled Image Dataset for Deep Learning-Driven Rockfall Detection on the Moon and Mars](https://www.frontiersin.org/articles/10.3389/frsen.2021.640034/full)
+
+[Deep Learning-Driven Detection and Mapping of
+Rockfalls on Mars](https://ieeexplore.ieee.org/abstract/document/9103997)
+
+[Automated Detection of Lunar Rockfalls Using
+a Convolutional Neural Network](https://ieeexplore.ieee.org/document/8587120)
+
 RetinaNetにはこちらのkeras実装を参考にしていますhttps://github.com/fizyr/keras-retinanet
 
 モデル評価ではこちらの実装を参考にしています　https://github.com/nekobean/pascalvoc_metrics/
